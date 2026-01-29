@@ -41,11 +41,13 @@ Hi, I’m **Shaik Mohammad Jakeer**, a **fresher and B.Tech (CSE – Data Scienc
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=SkMdJakeer&theme=tokyonight"
-    alt="GitHub Streak Stats"
+  <img 
+    src="https://streak-stats.demolab.com?user=SkMdJakeer&theme=tokyonight&hide_border=true"
+    width="400"
+    alt="GitHub Streak"
   />
 </p>
+
 
 
 ---
@@ -53,26 +55,11 @@ Hi, I’m **Shaik Mohammad Jakeer**, a **fresher and B.Tech (CSE – Data Scienc
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SkMdJakeer&show_icons=true&theme=tokyonight"
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=SkMdJakeer&show_icons=true&theme=tokyonight&hide_border=true"
+    width="400"
     alt="GitHub Stats"
   />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkMdJakeer&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-  />
-</p>
-
-
----
-
-## 🐍 Contribution Activity  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
