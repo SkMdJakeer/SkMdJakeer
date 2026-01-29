@@ -1,27 +1,25 @@
-
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c83ff,100:1e1e2f&height=220&text=Shaik%20Mohammad%20Jakeer&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c83ff,100:1e1e2f&height=220&text=Shaik%20Mohammad%20Jakeer&fontSize=42&fontColor=ffffff"/>
 
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&color=4C8CFF&center=true&vCenter=true&width=650&lines=Data+Analytics+Student;Learning+Full+Stack+Development;Python+%7C+SQL+%7C+Web+Development;Building+Strong+Foundations+Every+Day"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&color=4C8CFF&center=true&vCenter=true&width=650&lines=Data+Analytics+Student;Learning+Full+Stack+Development;Python+%7C+SQL+%7C+Web+Development;Learning+by+Doing+Every+Day"/>
 </p>
 
 ---
 
 ## 👋 About Me  
 
-Hi, I’m **Shaik Mohammad Jakeer**, a **B.Tech (CSE – Data Science) student** passionate about learning **Data Analytics** and **Full Stack Development**.
+Hi, I’m **Shaik Mohammad Jakeer**, a **fresher and B.Tech (CSE – Data Science) student** learning **Data Analytics** and **Full Stack Development**.
 
-- 📊 Practicing **Python, SQL, Data Analysis**
-- 🌐 Learning **Full Stack Web Development**
-- 🧠 Strengthening **problem-solving & fundamentals**
-- 🚀 Improving through **daily practice & consistency**
-- 🎯 Goal: Become a skilled **Data Analyst / Software Developer**
+- 📊 Practicing Python, SQL & Data Analysis  
+- 🌐 Learning Full Stack Web Development  
+- 🧠 Strengthening fundamentals & problem-solving  
+- 🎯 Goal: Data Analyst / Software Developer  
 
 ---
 
-## 🛠 Skills (Currently Learning & Practicing)
+## 🛠 Skills (Currently Learning)
 
 ### 💻 Programming & Web
 <p>
@@ -35,32 +33,46 @@ Hi, I’m **Shaik Mohammad Jakeer**, a **B.Tech (CSE – Data Science) student**
 
 ### 🔧 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak  
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SkMdJakeer&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://streak-stats.demolab.com?user=SkMdJakeer&theme=tokyonight"
+    alt="GitHub Streak Stats"
+  />
 </p>
+
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SkMdJakeer&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkMdJakeer&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SkMdJakeer&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkMdJakeer&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
+</p>
+
 
 ---
 
 ## 🐍 Contribution Activity  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -79,16 +91,16 @@ Hi, I’m **Shaik Mohammad Jakeer**, a **B.Tech (CSE – Data Science) student**
 
 <p>
   <a href="https://www.linkedin.com/in/shaik-mohammad-jakeer">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://github.com/SkMdJakeer">
-    <img src="https://skillicons.dev/icons?i=github"/>
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://leetcode.com/u/skjakeer/">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/leetcode.png"/>
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
   </a>
   <a href="https://www.hackerrank.com/profile/shaikjakeer0205">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/hackerrank.png"/>
+    <img src="https://img.shields.io/badge/HackerRank-brightgreen?style=for-the-badge&logo=hackerrank"/>
   </a>
 </p>
 
