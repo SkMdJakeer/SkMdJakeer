@@ -10,7 +10,7 @@
 
 ## 👋 About Me  
 
-Hi, I’m **Shaik Mohammad Jakeer**, a **fresher and B.Tech (CSE – Data Science) student** learning **Data Analytics** and **Full Stack Development**.
+Hi, I’m **Shaik Mohammad Jakeer**, a **B.Tech (CSE – Data Science) student** learning **Data Analytics** and **Full Stack Development**.
 
 - 📊 Practicing Python, SQL & Data Analysis  
 - 🌐 Learning Full Stack Web Development  
@@ -48,26 +48,12 @@ Hi, I’m **Shaik Mohammad Jakeer**, a **fresher and B.Tech (CSE – Data Scienc
   />
 </p>
 
-
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=SkMdJakeer&show_icons=true&theme=tokyonight&hide_border=true"
-    width="400"
-    alt="GitHub Stats"
-  />
-</p>
-
 ---
 
 ## 📄 Resume  
 
 <p>
-  <a href="https://github.com/SkMdJakeer/SkMdJakeer/blob/main/Shaik_Mohammad_Jakeer_Resume.pdf">
+  <a href="https://github.com/SkMdJakeer/SkMdJakeer/blob/main/new_SMJ_Resume.pdf">
     <img src="https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader"/>
   </a>
 </p>
