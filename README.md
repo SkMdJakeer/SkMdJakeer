@@ -36,17 +36,6 @@ Hi, I’m **Shaik Mohammad Jakeer**, a **B.Tech (CSE – Data Science) student**
   <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
----
-
-## 📊 GitHub Activity
-
-![Profile Views](https://komarev.com/ghpvc/?username=SkMdJakeer&style=flat-square)
-
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SkMdJakeer&theme=tokyo-night)
-
-
-
 
 ---
 
