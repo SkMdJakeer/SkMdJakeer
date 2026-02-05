@@ -38,13 +38,13 @@ Hi, I’m **Shaik Mohammad Jakeer**, a **B.Tech (CSE – Data Science) student**
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Activity
 
-<p align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=SkMdJakeer&style=flat-square)
 
-![GitHub Streak](https://streak-stats.demolab.com/svg?user=SkMdJakeer&theme=tokyonight)
 
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SkMdJakeer&theme=tokyo-night)
+
 
 
 
