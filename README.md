@@ -41,8 +41,11 @@ Hi, I’m **Shaik Mohammad Jakeer**, a **B.Tech (CSE – Data Science) student**
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SkMdJakeer&theme=tokyonight" alt="GitHub Streak"/>
+
+![GitHub Streak](https://streak-stats.demolab.com/svg?user=SkMdJakeer&theme=tokyonight)
+
 </p>
+
 
 
 ---
